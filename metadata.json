@@ -1,0 +1,6 @@
+{
+  "name": "Incident Response Agent",
+  "description": "Recalls past incidents, root causes, proven runbooks, and post-mortem lessons to accelerate production triage and recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
